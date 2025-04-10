@@ -6,7 +6,7 @@
     "currentBidPrice": 85.50,
     "timeLeft": "2h 15m",
     "bidsCount": 12,
-    "image": "https://i.ebayimg.com/images/g/7~AAAOSw8D5f~4Xk/s-l1600.jpg"
+    "image": "https://shibgat.me/images/jacket.png"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "currentBidPrice": 210.00,
     "timeLeft": "4h 30m",
     "bidsCount": 9,
-    "image": "https://www.worboysantiques.co.uk/images/stock/large/antique-mantel-clocks-0-1637924985-1.jpg"
+    "image": "https://shibgat.me/images/wooden-clock.png"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "currentBidPrice": 650.00,
     "timeLeft": "1d 6h",
     "bidsCount": 27,
-    "image": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP854/mbp13-gray.png"
+    "image": "https://shibgat.me/images/macbook.jpg"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "currentBidPrice": 475.00,
     "timeLeft": "3h 55m",
     "bidsCount": 15,
-    "image": "https://trek.scene7.com/is/image/TrekBicycleProducts/Marlin7_21_33067_A_Portrait?$responsive-pjpg$&wid=1920&hei=1440"
+    "image": "https://shibgat.me/images/mountain-bike.jpg"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "currentBidPrice": 520.00,
     "timeLeft": "12h 0m",
     "bidsCount": 34,
-    "image": "https://www.sony.com/image/press/PS5_console_image.jpg"
+    "image": "https://shibgat.me/images/playstation5.jpg"
   },
   {
     "id": 6,
@@ -51,6 +51,6 @@
     "currentBidPrice": 870.00,
     "timeLeft": "2d 3h",
     "bidsCount": 22,
-    "image": "https://www.canon.co.uk/media/EOS%2090D%20EF-S%2018-135mm%20IS%20USM%20FRA%20Pack_tcm14-1866625.jpg"
+    "image": "https://shibgat.me/images/canon.jpg"
   }
 ]
